@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome! <img src="/giphy.gif" width="50">
 
-<!--
-**Bell006/Bell006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+## I'm Bell!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+:computer: Designer and Full-Stack-Developer.
+
+:house_with_garden: From Brazil.
+
+:books: Currently a student from RocketSeat's Explorer.
+
+ 
+
+## About me
+
+[![Bell006 GitHub stats](https://github-readme-stats.vercel.app/api?username=Bell006)](https://github.com/NOMEGIT/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bell006)](https://github.com/anuraghazra/github-readme-stats)
+
+- Thanks for visiting!
+
