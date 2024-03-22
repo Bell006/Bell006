@@ -16,7 +16,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nodejs,react,vite,sqlite,jest&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nodejs,react,vite,sqlite,jest,c&perline=5)](https://skillicons.dev)
 </br>
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bell006)](https://github.com/anuraghazra/github-readme-stats)
