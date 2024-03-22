@@ -10,7 +10,7 @@
 
 :house_with_garden: From Brazil.
 
-:books: Currently a student at RocketSeat's Explorer.
+:books: Currently a student at Harvard Cs50.
 
  
 
