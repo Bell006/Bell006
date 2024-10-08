@@ -6,7 +6,7 @@
 
  
 
-:computer: Designer and Full-Stack-Developer.
+:computer: Design and Development Analyst.
 
 :house_with_garden: From Brazil.
 
@@ -16,10 +16,10 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nodejs,react,vite,sqlite,jest,python,bootstrap,flask,styledcomponents,c&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nodejs,react,vite,sqlite,jest,python,bootstrap,flask,styledcomponents,django,c&perline=5)](https://skillicons.dev)
 </br>
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bell006&layout=compact)
 
 ## Softwares
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr,xd&perline=5)](https://skillicons.dev)
